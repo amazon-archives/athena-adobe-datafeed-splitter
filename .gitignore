@@ -1,0 +1,9 @@
+# Development files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Build files
+target/
